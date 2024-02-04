@@ -7,7 +7,7 @@ I'm currently learning frontend development, starting with the basics in HTML, C
 here.
 
 Things I'm learning:
-- Frontend development <a href="https://www.youtube.com/@ByteGrad" target="_blank">(From ByteGrad's courses)</a>, in this planned order:
+- Frontend development (<a href="https://www.youtube.com/@ByteGrad" target="_blank">from ByteGrad's courses</a>), in this planned order:
 
   1) HTML
   2) CSS
