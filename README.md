@@ -1,3 +1,4 @@
+<base target="_blank">
 # A little about me
 
 My name is Ali, and although it's my second year in college, I'm currently a CS junior studying in my hometown NYC, where I was born and raised.
@@ -7,7 +8,7 @@ I'm currently learning frontend development, starting with the basics in HTML, C
 here.
 
 Things I'm learning:
-- Frontend development (<a href="https://www.youtube.com/@ByteGrad" target="_blank">from ByteGrad's courses</a>), in this planned order:
+- Frontend development ([from ByteGrad's courses](https://www.youtube.com/@ByteGrad)), in this planned order:
 
   1) HTML
   2) CSS
