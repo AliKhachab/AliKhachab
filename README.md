@@ -1,4 +1,5 @@
 <base target="_blank">
+
 # A little about me
 
 My name is Ali, and although it's my second year in college, I'm currently a CS junior studying in my hometown NYC, where I was born and raised.
