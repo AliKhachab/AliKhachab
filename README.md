@@ -12,9 +12,9 @@ Things I'm learning:
 - Frontend development ([from ByteGrad's courses](https://www.youtube.com/@ByteGrad)), in this planned order:
 
   1) HTML ✅ 
-  2) CSS and SCSS -- 60% complete 
-  3) JavaScript 
-  4) React, Next.js, and TypeScript
+  2) CSS and SCSS -- ✅ 
+  3) JavaScript -- 50% complete
+  4) React, Next.js, and TypeScript -- Started using React at hackathons!
   5) Making my own personal project -- Soon (Thinking of making something that displays unique video game controller inputs)
   6) Trying what I've learned at a hackathon  ✅
 
