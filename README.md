@@ -30,8 +30,8 @@ Things I've learned:
 
 Things I am learning right now:
  - C#
- - SQL
- - WPF
+ - SQL ✅
+ - WPF 
  - .NET Framework
 
 
