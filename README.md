@@ -17,6 +17,7 @@ Things I'm learning:
   6) Trying what I've learned at a hackathon  ✅
 
 - Backend development
+
 I've started learning this stuff at my co-op, so I'll definitely update this once that's done with all the skills I've improved on/learned and continue from there.
 
 Things I've learned:
