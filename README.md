@@ -2,11 +2,9 @@
 
 # A little about me
 
-My name is Ali, and I'm a rising senior in Computer Science. I currently have a SWE/consultancy co-op, where I am learning .NET Core and Microsoft related technologies along with SQL and database management.
+My name is Ali, and I'm a rising senior in Computer Science.
 
-As for my self-studying, I'm currently learning frontend development, starting with the basics in HTML, CSS, and JavaScript. After that, I plan on learning Next.js, Node.js and React, and possibly using these skills to start making a website for myself or for general use. For now, I'll keep dumping the small projects I'm working on here.
-
-Things I'm learning:
+What I'm learning:
 - Frontend development ([from ByteGrad's courses](https://www.youtube.com/@ByteGrad)), in this planned order:
   1) HTML ✅ 
   2) CSS and SCSS -- ✅ 
