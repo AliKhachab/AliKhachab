@@ -38,5 +38,8 @@ Things I am learning right now:
 - JavaScript, React, etc.
 - Algorithms
 - Software/Mobile Dev
+- PHP
+- Database Management and Theory
+- AI
 
 
