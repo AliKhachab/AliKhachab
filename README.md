@@ -9,7 +9,7 @@ What I'm learning:
   1) HTML ✅ 
   2) CSS and SCSS -- ✅ 
   3) JavaScript -- ✅ 
-  4) React, Next.js, and TypeScript 
+  4) React, Next.js, and TypeScript ✅
   5) Making my own personal project
   6) Trying what I've learned at a hackathon ✅
   7) C#/XAML/WPF (Windows Presentation Foundation) ✅ (Learned at co-op)
